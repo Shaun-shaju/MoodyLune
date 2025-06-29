@@ -1,0 +1,51 @@
+# Flutter & Dart
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+.idea/
+.vscode/
+*.iml
+
+# Generated files
+pubspec.lock
+
+# Android
+android/app/debug
+android/app/profile
+android/app/release
+*.jks
+local.properties
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Runner.xcworkspace
+ios/Pods
+ios/.symlinks
+ios/Podfile.lock
+Generated.xcconfig
+
+# macOS
+macos/Flutter/Flutter.framework
+macos/Flutter/Flutter.podspec
+macos/Pods
+macos/.symlinks
+macos/Podfile.lock
+
+# Linux
+linux/flutter/ephemeral/
+
+# Windows
+windows/flutter/ephemeral/
+
+# Web
+build/web/
+
+# Firebase
+firebase.json
+google-services.json
+GoogleService-Info.plist
