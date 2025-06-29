@@ -49,15 +49,23 @@ Beautiful moon-themed splash screen on startup.
 
 ## ScreenShots
 
-![Splash Screen](./assets/screenshots/splash.jpg)
-![Login Screen](./assets/screenshots/login.jpg)
-![Signup Screen](./assets/screenshots/signup.jpg)
-![Home Screen](./assets/screenshots/home.jpg)
-![Chat Screen](./assets/screenshots/chat.jpg)
-![Journal Screen](./assets/screenshots/journal.jpg)
-![Settings Screen](./assets/screenshots/settings.jpg)
-![Record Emotion](./assets/screenshots/record.jpg)
-![Recat](./assets/screenshots/react.jpg)
+<table>
+  <tr>
+    <td><img src="./assets/screenshots/splash.jpg" width="200"/></td>
+    <td><img src="./assets/screenshots/login.jpg" width="200"/></td>
+    <td><img src="./assets/screenshots/signup.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/screenshots/home.jpg" width="200"/></td>
+    <td><img src="./assets/screenshots/chat.jpg" width="200"/></td>
+    <td><img src="./assets/screenshots/journal.jpg" width="200"/></td>
+  </tr>
+  <tr>
+    <td><img src="./assets/screenshots/settings.jpg" width="200"/></td>
+    <td><img src="./assets/screenshots/record.jpg" width="200"/></td>
+    <td><img src="./assets/screenshots/react.jpg" width="200"/></td>
+  </tr>
+</table>
 
 ## 🔧 Getting Started
 
