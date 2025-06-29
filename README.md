@@ -1,7 +1,8 @@
 <p align="center">
-  <img src="./assets/logo-dark.png" alt="MoodyLune Logo" width="40" style="vertical-align: middle;"/>
-  <span style="font-size: 2em; vertical-align: middle;"><b>MoodyLune</b></span>
+  <img src="./assets/logo-dark.png" alt="MoodyLune Logo" width="80"/>
 </p>
+
+<h1 align="center">MoodyLune</h1>
 
 MoodyLune is a mental health companion app built with **Flutter**. It helps users track their moods, journal their feelings, and optionally chat with an AI counselor for support.
 
